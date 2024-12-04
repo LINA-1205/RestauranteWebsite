@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "frontend-apicrud"
+		},
+		{
+			"path": "../backend-apiCrud-20241128T154621Z-001/backend-apiCrud"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "frontend-apicrud"
+	}
+}
